@@ -1,0 +1,20 @@
+html{
+    color: rgb(27, 27, 27);
+    padding-top: 60px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+    
+nav{
+    text-align: center;
+    border-bottom: 10px;
+    margin:auto;
+    padding-bottom: 10px;
+}
+body{
+    width: 520px;
+    margin:auto;
+}
+a{
+    color: rgb(27, 27, 27);
+}
